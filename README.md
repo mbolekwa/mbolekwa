@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mbolekwa
-- 👀 I’m interested in ...programming coding 
+- 👀 I’m interested in ...programming 
 - 🌱 I’m currently learning ...How to use angular with C# web api, 
-- 💞️ I’m looking to collaborate on ...Coding camps, where people develop websites and application.
+- 💞️ I’m looking to collaborate on ...senior developers
 - 📫 How to reach me ...
 
 <!---
